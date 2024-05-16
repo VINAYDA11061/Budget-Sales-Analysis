@@ -10,7 +10,6 @@ Find key metrics andfactors and show the meaningful relationships between attrib
 • The collection includes records for sales orders, customer information, product information, and geographical data. 
 • In order to deduce important metrics and patterns in the dataset, this project will use the provided data to perform ETL and data analysis. 
 • Additionally, several visualizations and reports are created to represent significant linkages. 
-![image](https://github.com/VINAYDA11061/Budget-Sales-Analysis/assets/125648329/f853bda4-8dda-48a2-998b-c5962b80e6be)
 
 #### Domain : Retail & Sales
 
@@ -38,6 +37,4 @@ Microsoft Software Power BI
 • Major Profit is contributed by the Bike Category.
 • Client retention in 2014 was subpar
 • 2016 brought about a slight improvement in retention.
-• Average Monthly spend by customers is below $100 image](https://github.com/VINAYDA11061/Budget-Sales-Analysis/assets/125648329/3d3e1ba9-bc75-416c-854a-b0148a726886)
-
-
+• Average Monthly spend by customers is below $100 
