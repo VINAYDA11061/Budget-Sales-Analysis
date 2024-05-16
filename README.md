@@ -7,9 +7,10 @@ Use various visualization and features and make the best dashboard.
 Find key metrics andfactors and show the meaningful relationships between attributes. Do your own research and come up with your findings.
 
 ### Objective:
-• The collection includes records for sales orders, customer information, product information, and geographical data. 
-• In order to deduce important metrics and patterns in the dataset, this project will use the provided data to perform ETL and data analysis. 
-• Additionally, several visualizations and reports are created to represent significant linkages. 
+
+ • The collection includes records for sales orders, customer information, product information, and geographical data. 
+ • In order to deduce important metrics and patterns in the dataset, this project will use the provided data to perform ETL and data analysis. 
+ • Additionally, several visualizations and reports are created to represent significant linkages. 
 
 #### Domain : Retail & Sales
 
@@ -25,16 +26,18 @@ Retail & Sales
 Microsoft Software Power BI
 
 ### Benefits:
-• Help in making wiser business decisions. 
-• Aid in customer satisfaction and trend monitoring, which can serve current consumers and attract new ones. 
-• Greater client base understanding is provided. 
-• Facilitates seamless resource management flow. 
+
+ • Help in making wiser business decisions. 
+ • Aid in customer satisfaction and trend monitoring, which can serve current consumers and attract new ones. 
+ • Greater client base understanding is provided. 
+ • Facilitates seamless resource management flow. 
 
 
 ### Conclusion:
-• The year 2016 saw an exponential surge in sales .
-• High quantity of products is ordered from Australia.
-• Major Profit is contributed by the Bike Category.
-• Client retention in 2014 was subpar
+ 
+ • The year 2016 saw an exponential surge in sales .
+ • High quantity of products is ordered from Australia.
+ • Major Profit is contributed by the Bike Category.
+ • Client retention in 2014 was subpar
 • 2016 brought about a slight improvement in retention.
 • Average Monthly spend by customers is below $100 
